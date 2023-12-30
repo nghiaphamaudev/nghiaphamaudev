@@ -1,5 +1,5 @@
 <a href = '#' target = "_blank">
-<img src ="./svg/trungquandev.svg" width = "1200" alt ="Pham Van Nghia">
+<img src ="./nghiaphamaudev-main/svg/trungquandev.svg" width = "1200" alt ="Pham Van Nghia">
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
